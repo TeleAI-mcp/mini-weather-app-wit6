@@ -1,2 +1,3 @@
-# mini-weather-app-wit6
-Automated issue comment bot repository
+# Mini Weather App Wit6
+
+Automated issue comment bot repository.
